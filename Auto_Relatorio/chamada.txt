@@ -1,0 +1,1 @@
+python automate_process.py --folder "caminho/para/pasta"
